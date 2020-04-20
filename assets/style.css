@@ -71,19 +71,20 @@ a{
 
 
 
-p{
-    padding-right: 20px;
-}
+
 .aboutme{
  width: 1000px;
      margin-left: auto;
     margin-right: auto;
   
+  
+    
+  
 }
 
 .myphoto{
     float: left;
-    padding-right: 20px;
+   
 }
 
 p{
@@ -91,7 +92,9 @@ p{
     text-align: justify;
     width:400px;
     font-family: 'Noto Sans TC', sans-serif;
+    opacity: 75%;
 }
 h2{
     font-family: 'Noto Sans TC', sans-serif;
+    opacity:75%;
 }
