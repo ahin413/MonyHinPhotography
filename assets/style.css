@@ -1,0 +1,97 @@
+.top{
+    background-color: black;
+    opacity: 90%;
+}
+
+a{
+    color: white;
+}
+
+.logo{
+   text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+ 
+}
+
+#carouselExampleSlidesOnly{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+a{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bottom{
+    background-color: black;
+    opacity: 90%;
+    text-align: center;
+    font: white;
+   
+
+}
+.navbar-brand-mx-auto{
+    font:white;
+}
+
+
+
+.contact{
+    border:solid;
+    border-width: 1px;
+    border-color:black;
+   padding-top: 25px;
+   padding-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:25px;
+    padding-right: 25px;
+    width:750px;
+    height:auto;
+   
+}
+.images{
+    width: 948px;
+    margin:0 auto;
+    font-size: 0;
+
+}
+
+.images a{
+    margin:8px;
+    display: inline-block;
+    background-color: white;
+}
+
+
+
+p{
+    padding-right: 20px;
+}
+.aboutme{
+ width: 1000px;
+     margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.myphoto{
+    float: left;
+    padding-right: 20px;
+}
+
+p{
+    float: right;
+    text-align: justify;
+    width:400px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h2{
+    font-family: 'Noto Sans TC', sans-serif;
+}
