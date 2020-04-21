@@ -43,7 +43,6 @@ a{
 .contact{
     border:solid;
     border-width: 1px;
-    border-color:black;
    padding-top: 25px;
    padding-bottom: 25px;
     margin-left: auto;
@@ -52,6 +51,11 @@ a{
     padding-right: 25px;
     width:750px;
     height:auto;
+    background-color: black;
+    opacity: 90%;
+    font: white;
+    font-family: 'Noto Sans TC', sans-serif;
+
    
 }
 .images{
@@ -107,4 +111,27 @@ hr{
     width:1000px;
     margin-right:auto;
     margin-left: auto;
+}
+#carouselExampleSlidesOnlyTwo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 110px;
+}
+
+button{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+
+  
+   
+  
+}
+
+label{
+    color: white;
+    font-family: 'Noto Sans TC', sans-serif;
 }
