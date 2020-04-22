@@ -12,8 +12,6 @@ a{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-
- 
 }
 
 #carouselExampleSlidesOnly{
@@ -22,7 +20,6 @@ a{
     margin-right: auto;
     width: 50%;
     padding-bottom: 110px;
-
 }
 
 a{
@@ -33,9 +30,9 @@ a{
     background-color: black;
     opacity: 90%;
     text-align: center;
-    font: white;
-   
+    font: white;   
 }
+
 .navbar-brand-mx-auto{
     font:white;
 }
@@ -43,6 +40,7 @@ a{
 .contact{
     border:solid;
     border-width: 1px;
+    
    padding-top: 25px;
    padding-bottom: 25px;
     margin-left: auto;
@@ -54,15 +52,13 @@ a{
     background-color: black;
     opacity: 90%;
     font: white;
-    font-family: 'Noto Sans TC', sans-serif;
-
-   
+    font-family: 'Noto Sans TC', sans-serif;   
 }
+
 .images{
     width: 948px;
     margin:0 auto;
     font-size: 0;
-
 }
 
 .images a{
@@ -75,15 +71,11 @@ a{
  width: 1000px;
      margin-left: auto;
     margin-right: auto;
-    padding-top: 20px;
-    ;
-   
-  
+    padding-top: 55px; 
 }
 
 .myphoto{
     float: left;
-   
 }
 
 p{
@@ -97,6 +89,7 @@ p{
 h2{
     font-family: 'Noto Sans TC', sans-serif;
     opacity:75%;
+    text-align: center;
 }
 
 hr{
@@ -104,7 +97,6 @@ hr{
     background-color: black;
     height: 4px;
     opacity:10%;
-    
 }
 
 .divide{
@@ -112,6 +104,7 @@ hr{
     margin-right:auto;
     margin-left: auto;
 }
+
 #carouselExampleSlidesOnlyTwo{
     display: block;
     margin-left: auto;
@@ -125,10 +118,6 @@ button{
     margin-right: auto;
     font-family: 'Noto Sans TC', sans-serif;
     text-align: center;
-
-  
-   
-  
 }
 
 label{
