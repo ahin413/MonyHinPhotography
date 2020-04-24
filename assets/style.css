@@ -24,18 +24,18 @@ a{
 
 a{
     font-family: 'Roboto', sans-serif;
+  
 }
 
 .bottom{
     background-color: black;
     opacity: 90%;
     text-align: center;
-    font: white;   
+    color: white; 
+    font-family: 'Noto Sans TC', sans-serif;  
 }
 
-.navbar-brand-mx-auto{
-    font:white;
-}
+
 
 .contact{
     border:solid;
@@ -51,7 +51,8 @@ a{
     background-color: black;
     opacity: 90%;
     font: white;
-    font-family: 'Noto Sans TC', sans-serif;   
+    font-family: 'Noto Sans TC', sans-serif; 
+    margin-bottom: 50px;  
 }
 
 .images{
@@ -71,6 +72,7 @@ a{
      margin-left: auto;
     margin-right: auto;
     padding-top: 55px; 
+    margin-bottom: 50px;
 }
 
 .myphoto{
@@ -102,6 +104,7 @@ hr{
     width:1000px;
     margin-right:auto;
     margin-left: auto;
+
 }
 
 #carouselExampleSlidesOnlyTwo{
@@ -123,6 +126,4 @@ label{
     color: white;
     font-family: 'Noto Sans TC', sans-serif;
 }
-small{
-    
-}
+
