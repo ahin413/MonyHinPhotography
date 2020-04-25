@@ -23,7 +23,7 @@ a{
 }
 
 a{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
   
 }
 
@@ -97,7 +97,7 @@ h2{
 hr{
     style: solid;
     background-color: black;
-    height: 4px;
+    height: 1px;
     opacity:10%;
 }
 
