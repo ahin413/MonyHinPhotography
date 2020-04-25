@@ -59,6 +59,7 @@ a{
     width: 948px;
     margin:0 auto;
     font-size: 0;
+    background-image: url(path/to/image/to/be/watermarked.png);
    
 }
 
@@ -130,4 +131,13 @@ label{
 
 .events{
     margin-bottom: 50px;
+}
+
+.carouselExampleControls{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 110px;
+
 }
