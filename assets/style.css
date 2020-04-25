@@ -133,11 +133,23 @@ label{
     margin-bottom: 50px;
 }
 
-.carouselExampleControls{
+#carouselExampleControls{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    padding-bottom: 110px;
+   margin-bottom:110px;
+}
 
+.carousel-inner{
+    width:600px;
+    height: 400px;
+}
+
+.carousel-control-prev-icon{
+    opacity:0%
+}
+
+.carousel-control-next-icon{
+    opacity:0%
 }
