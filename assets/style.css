@@ -32,7 +32,8 @@ a{
     opacity: 90%;
     text-align: center;
     color: white; 
-    font-family: 'Noto Sans TC', sans-serif;  
+    font-family: 'Noto Sans TC', sans-serif; 
+   
 }
 
 
@@ -152,4 +153,9 @@ label{
 
 .carousel-control-next-icon{
     opacity:0%
+}
+.insta{
+
+position: absolute;
+right:7px;
 }
