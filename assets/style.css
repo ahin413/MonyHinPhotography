@@ -134,19 +134,6 @@ label{
     margin-bottom: 50px;
 }
 
-
-.carousel-inner{
-    width:600px;
-    height: 400px;
-}
-
-.carousel-control-prev-icon{
-    opacity:0%
-}
-
-.carousel-control-next-icon{
-    opacity:0%
-}
 .insta{
 
 position: absolute;
