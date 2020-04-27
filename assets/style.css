@@ -133,9 +133,8 @@ label{
 .events{
     margin-bottom: 50px;
 }
-
-.insta{
-
-position: absolute;
-right:7px;
+.insta
+{
+    float: left;
+    margin-right:7px;
 }
