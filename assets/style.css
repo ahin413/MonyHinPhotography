@@ -24,7 +24,6 @@ a{
 
 a{
     font-family: 'Noto Sans TC', sans-serif;
-  
 }
 
 .bottom{
@@ -32,11 +31,8 @@ a{
     opacity: 90%;
     text-align: center;
     color: white; 
-    font-family: 'Noto Sans TC', sans-serif; 
-   
+    font-family: 'Noto Sans TC', sans-serif;   
 }
-
-
 
 .contact{
     border:solid;
@@ -61,7 +57,6 @@ a{
     margin:0 auto;
     font-size: 0;
     background-image: url(path/to/image/to/be/watermarked.png);
-   
 }
 
 .images a{
@@ -74,18 +69,23 @@ a{
  width: 1000px;
      margin-left: auto;
     margin-right: auto;
-    padding-top: 55px; 
-    margin-bottom: 50px;
+    margin-top: 55px;  
+   
 }
 
 .myphoto{
-    float: left;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ margin-bottom: 15px;
+ width: 600px;
 }
 
 p{
-    float: right;
+    margin-left:auto;
+    margin-right:auto;
     text-align: justify;
-    width:400px;
+    width:600px;
     font-family: 'Noto Sans TC', sans-serif;
     opacity: 75%;
 }
@@ -97,7 +97,6 @@ h2{
 }
 
 hr{
-    
     background-color: black;
     height: 1px;
     opacity:10%;
@@ -107,22 +106,16 @@ hr{
     width:1000px;
     margin-right:auto;
     margin-left: auto;
-
 }
 
-#carouselExampleSlidesOnlyTwo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    padding-bottom: 110px;
-}
-
-button{
-    margin-left: auto;
-    margin-right: auto;
+.btn-sm{
+    margin-top:20px;
     font-family: 'Noto Sans TC', sans-serif;
     text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom:20px;
+ 
 }
 
 label{
@@ -133,8 +126,13 @@ label{
 .events{
     margin-bottom: 50px;
 }
+
 .insta
 {
     float: left;
     margin-right:7px;
+}
+
+.button{
+ text-align: center;
 }
