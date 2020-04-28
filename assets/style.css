@@ -108,13 +108,14 @@ hr{
     margin-left: auto;
 }
 
-.btn-sm{
+.btn-lg{
     margin-top:10px;
     font-family: 'Noto Sans TC', sans-serif;
     text-align: center;
     background-color: black;
     color: white;
     margin-bottom:20px;
+    opacity: 90%
  
 }
 
