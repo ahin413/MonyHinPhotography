@@ -116,7 +116,7 @@ hr{
     background-color: black;
     color: white;
     margin-bottom:20px;
-    opacity: 90%
+    opacity: 80%
  
 }
 
@@ -137,5 +137,6 @@ label{
 
 .button{
  text-align: center;
- border: solid white
+ border: solid white;
+ opacity:90%;
 }
