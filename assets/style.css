@@ -154,4 +154,9 @@ label{
     display: inline-block;
     background-color: white;
 }
+.logo{
+    text-align: center;
+    height:200px;
+    width: 170px;
+}
   }
