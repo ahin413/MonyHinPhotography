@@ -15,7 +15,7 @@ a{
    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+   
 }
 
 #carouselExampleSlidesOnly{
@@ -47,7 +47,7 @@ a{
     margin-right: auto;
     padding-left:25px;
     padding-right: 25px;
-    width:750px;
+   
     height:auto;
     background-color: black;
     opacity: 90%;
@@ -70,7 +70,7 @@ a{
 }
 
 .aboutme{
- width: 1000px;
+
      margin-left: auto;
     margin-right: auto;
     margin-top: 55px;  
@@ -92,6 +92,7 @@ p{
     font-family: 'Raleway', sans-serif;
     opacity: 75%;
     font-weight:bold;
+    width:60%
 }
 
 h2{
@@ -183,15 +184,16 @@ small{
     width:60%;
 }
 .aboutme{
-    width: 60%;
+    width: 85%;
     margin-left:auto;
     margin-right:auto;
    
 }
 .myphoto{
-    width:auto;
+    size: 60%;
     margin-left:auto;
     margin-right:auto;
+   
 }
 
 p{
