@@ -81,7 +81,8 @@ a{
  margin-left: auto;
  margin-right: auto;
  text-align: center;
- margin-top:30px
+ margin-top:30px;
+ width: 50%;
  
 
 
@@ -170,7 +171,7 @@ li{
 }
 .logo{
     text-align: center;
-   max-width: 60%;
+
 }
 small{
     font-size: 12px;
@@ -189,12 +190,17 @@ small{
 
 p{
     font-size: smaller;
+ 
 }
 
 #mony{
-    max-width:100%;
-    height:auto;
+max-width: 80%;
+max-height: auto;
     
+}
+.logo{
+    max-width:80%;
+    max-height:auto;
 }
 
 
