@@ -60,7 +60,7 @@ a{
     width: 948px;
     margin:0 auto;
     font-size: 0;
-    background-image: url(path/to/image/to/be/watermarked.png);
+   
 }
 
 .images a{
@@ -73,15 +73,17 @@ a{
 
      margin-left: auto;
     margin-right: auto;
-    margin-top: 55px;  
+    margin-top: 30px;  
    
 }
 
-.myphoto{
+#mony{
  margin-left: auto;
  margin-right: auto;
  text-align: center;
- margin-bottom: 30px;
+ margin-top:30px
+ 
+
 
 }
 
@@ -92,7 +94,7 @@ p{
     font-family: 'Raleway', sans-serif;
     opacity: 75%;
     font-weight:bold;
-    width:60%
+    width:50%
 }
 
 h2{
@@ -153,19 +155,14 @@ li{
     text-align: right;
 }
 
-.card{
-    text-align:center;
-    margin-right: auto;
-    margin-left: auto;
 
-}
 
 
 
 @media only screen and (max-width: 1000px) {
-  .images{
-      width: 308px;
-  }
+.images{
+  width: 308px;
+     }
   .images a{
     margin:4px;
     display: inline-block;
@@ -173,31 +170,31 @@ li{
 }
 .logo{
     text-align: center;
-    height: auto;
-    width: auto;
+   max-width: 60%;
 }
 small{
-    font-size: 10px;
+    font-size: 12px;
 }
    
 .divide{
     width:60%;
 }
 .aboutme{
-    width: 85%;
-    margin-left:auto;
-    margin-right:auto;
-   
-}
-.myphoto{
-    size: 60%;
+    width: 90%;
     margin-left:auto;
     margin-right:auto;
    
 }
 
+
 p{
     font-size: smaller;
+}
+
+#mony{
+    max-width:100%;
+    height:auto;
+    
 }
 
 
