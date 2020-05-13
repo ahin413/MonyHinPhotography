@@ -92,6 +92,10 @@ p{
     margin-left:auto;
     margin-right:auto;
     text-align: justify;
+    word-spacing:-1px;
+   
+ 
+  
     font-family: 'Raleway', sans-serif;
     opacity: 75%;
     font-weight:bold;
@@ -183,7 +187,7 @@ small{
     width:60%;
 }
 .aboutme{
-    width: 95%;
+   
     margin-left:auto;
     margin-right:auto;  
 }
