@@ -170,7 +170,9 @@ li{
     background-color: white;
 }
 .logo{
-    text-align: center;
+    
+    max-width: 35%;
+    max-height: auto;
 
 }
 small{
@@ -181,7 +183,7 @@ small{
     width:60%;
 }
 .aboutme{
-    width: 90%;
+    width: 95%;
     margin-left:auto;
     margin-right:auto;  
 }
@@ -193,11 +195,19 @@ p{
 }
 
 #mony{
-    max-width: 80%;
+    max-width: 95%;
     max-height: auto;
 }
 
 
+.center{
+    max-width: 80%;
+    max-height: auto;
+
+}
+h2{
+    font-size: 95%;
+}
 
 
   }
