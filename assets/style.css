@@ -153,13 +153,18 @@ li{
     text-align: right;
 }
 
+.card{
+    text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+
+}
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1000px) {
   .images{
       width: 308px;
-    
   }
   .images a{
     margin:4px;
@@ -171,6 +176,12 @@ li{
     height: auto;
     width: auto;
 }
+small{
+    font-size: 10px;
+   
+}
+
+
 
 
   }
