@@ -3,6 +3,10 @@
     opacity: 90%;
 }
 
+.navbar-toggler{
+    color: white;
+}
+
 a{
     color: white;
 }
@@ -138,7 +142,15 @@ label{
 .button{
  text-align: center;
  border: solid white;
+ color: white;
 
+}
+li{
+    color: white;
+    text-align: right;
+}
+.nav-item-active{
+    text-align: right;
 }
 
 
@@ -159,4 +171,6 @@ label{
     height: auto;
     width: auto;
 }
+
+
   }
