@@ -183,8 +183,7 @@ small{
 .aboutme{
     width: 90%;
     margin-left:auto;
-    margin-right:auto;
-   
+    margin-right:auto;  
 }
 
 
@@ -194,14 +193,11 @@ p{
 }
 
 #mony{
-max-width: 80%;
-max-height: auto;
-    
+    max-width: 80%;
+    max-height: auto;
 }
-.logo{
-    max-width:80%;
-    max-height:auto;
-}
+
+
 
 
   }
