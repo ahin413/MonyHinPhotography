@@ -38,29 +38,11 @@ a{
     font-family: 'Raleway', sans-serif;   
 }
 
-.contact{
-    border:solid;
-    border-width: 1px;
-   padding-top: 25px;
-   padding-bottom: 25px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left:25px;
-    padding-right: 25px;
-   
-    height:auto;
-    background-color: black;
-    opacity: 90%;
-    font: white;
-    font-family: 'Raleway', sans-serif; 
-    margin-bottom: 50px;  
-}
 
 .images{
     width: 948px;
     margin:0 auto;
-    font-size: 0;
-   
+    font-size: 0;  
 }
 
 .images a{
@@ -73,8 +55,7 @@ a{
 
      margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;  
-   
+    margin-top: 30px;   
 }
 
 #mony{
@@ -83,9 +64,6 @@ a{
  text-align: center;
  margin-top:30px;
  width: 50%;
- 
-
-
 }
 
 p{
@@ -93,9 +71,6 @@ p{
     margin-right:auto;
     text-align: justify;
     word-spacing:-1px;
-   
- 
-  
     font-family: 'Raleway', sans-serif;
     opacity: 75%;
     font-weight:bold;
@@ -110,8 +85,7 @@ h2{
 
 hr{
     background-color: gainsboro;
-    height: 1px;
-  
+    height: 1px; 
 }
 
 .divide{
@@ -127,8 +101,6 @@ hr{
     background-color: black;
     color: white;
     margin-bottom:20px;
-   
- 
 }
 
 label{
@@ -140,8 +112,7 @@ label{
     margin-bottom: 50px;
 }
 
-.insta
-{
+.insta{
     float: left;
     margin-right:7px;
 }
@@ -150,8 +121,8 @@ label{
  text-align: center;
  border: solid white;
  color: white;
-
 }
+
 li{
     color: white;
     text-align: right;
@@ -192,17 +163,14 @@ small{
     margin-right:auto;  
 }
 
-
 p{
     font-size: smaller;
- 
 }
 
 #mony{
     max-width: 95%;
     max-height: auto;
 }
-
 
 .center{
     max-width: 80%;
